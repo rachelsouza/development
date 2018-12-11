@@ -1,10 +1,9 @@
 # development
 The src code folder for this assignment can be viewed at the website link: https://github.com/rachelsouza/development .
-You can also view the code at https://drive.google.com/drive/folders/1E8vQsi0LqkdYPclIwy7S4wguSEgyrKYL?usp=sharing .
+You can also view the code at https://drive.google.com/drive/folders/1_XfnioZt4CFJpPrper69-s1SxXqBxBgm?usp=sharing .
 
-The site can be run by downloading the entire folder from the google drive, navigating to it in terminal,
-and then running "npm start", which will navigate to the site http://localhost:3000 in your browser, 
-where you can see the site live!
+The site can be run by downloading the entire folder from the google drive, combining it with the react supplied support code outside of the src folder, navigating to this in terminal, and then running "npm start", which will navigate to the site http://localhost:3000 in your browser, where you can see the site live!
+
 
 The user can use the various drop down menus in order to customize their adoption experience. 
 The site takes into account how users may want to see an image of the cat first, and then the 
